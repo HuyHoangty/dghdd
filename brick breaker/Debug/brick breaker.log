@@ -1,0 +1,16 @@
+﻿  brick breaker.cpp
+D:\game\brick breaker\brick breaker.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\game\brick breaker\brick breaker.cpp(19,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\game\brick breaker\brick breaker.cpp(19,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\game\brick breaker\brick breaker.cpp(94,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  menu.cpp
+  Generating Code...
+  brick breaker.vcxproj -> D:\game\Debug\brick breaker.exe
